@@ -71,6 +71,7 @@ make configure_backups
 * CamScanner
 * Chrome
 * Dropbox
+* Enterprise CarShare
 * Epayments
 * File Manager (by Flashlight + Clock)
 * Flickr
@@ -90,6 +91,7 @@ make configure_backups
 * Player FM
 * Pocket
 * PureVPN
+* Remote app:PlayMemories Mobile by Sony
 * Revolut
 * RocketMan Transit
 * Signal
@@ -101,6 +103,8 @@ make configure_backups
 * Twilight
 * Twitter
 * Uber
+* Unit Converter by Digit Grove
+* Universe - Find Local Events
 * Viber
 * VLC
 * WhatsApp
